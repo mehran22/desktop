@@ -1,4 +1,4 @@
-root: true
+root: true.brian.sara.dk
 parser: typescript-eslint-parser
 plugins:
   - typescript
